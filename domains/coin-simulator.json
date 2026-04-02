@@ -3,7 +3,7 @@
     "username": "chanjook1m",
     "email": "1z3r091@gmail.com"
   },
-  "record": {
+  "records": {
     "CNAME": ["ec2-3-27-221-152.ap-southeast-2.compute.amazonaws.com"]
   }
 }
